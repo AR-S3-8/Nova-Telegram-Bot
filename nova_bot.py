@@ -15,7 +15,7 @@ from telegram.ext import (
     filters,
 )
 
-TOKEN = "8514700769:AAFGx4QKZBmj2uSVD1PP1_tfAzNwDuCPYi4"
+TOKEN = ""
 
 # alaki baraye forget pass
 VALID_EMAIL = "alaki@gmail.com"
